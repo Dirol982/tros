@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /izmeneniya.html
+Disallow: /tools/
+Disallow: /deploy/
+
+Sitemap: https://www.tros-kpp.by/sitemap.xml
